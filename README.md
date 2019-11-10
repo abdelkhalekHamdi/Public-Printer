@@ -1,5 +1,5 @@
 # Public Printer
- Project that provides printing services in public places
+ Project that provides printing services in public places with payment system based on RFID cards
  
  # Demo
  Click on the link to see the full Demo:
